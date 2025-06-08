@@ -2,13 +2,18 @@
 
 🚗 Senior Software Engineer | Embedded Systems | C++ | ASPICE | Automotive | Python
 
-Experienced Senior Software Engineer with 6.5 years of expertise in C++, Embedded C, and Python, specializing in automotive embedded systems. Proven proficiency in middleware integration, system-level testing, and automation using GMock/GTest frameworks. Skilled in working within ASPICE-compliant environments and contributing to requirement traceability and validation. Strong foundation in communication protocols (I2C, SPI, CAN) and hands-on experience with Linux-based platforms. Passionate about building robust and scalable solutions through clean, maintainable code and collaborative development.
+Experienced Senior Software Engineer with 6.8+ years of expertise in C++, Embedded C, and Python, specializing in automotive embedded systems. Proven proficiency in middleware integration, system-level testing, and automation using GMock/GTest frameworks. Skilled in working within ASPICE-compliant environments and contributing to requirement traceability and validation. Strong foundation in communication protocols (I2C, SPI, CAN) and hands-on experience with Linux-based platforms. Passionate about building robust and scalable solutions through clean, maintainable code and collaborative development.
+
+---
+
+🤖 AI Enthusiast & Learner
+I am passionate about expanding my knowledge in Artificial Intelligence and continuously learning cutting-edge technologies like OpenAI’s ChatGPT and Google’s Gemini. Eager to leverage AI capabilities to complement embedded systems and automation workflows, and always exploring new ways to integrate AI-driven solutions into my projects.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages**: C++, Embedded C, Python, Bash
+- **Languages**: C++, Embedded C, Python, Bash, ChatGPT, GitHub CoPilot, Gemini
 - **Tools**: GMock, GTest/GMock, Git, GDB, Linux (Ubuntu)
 - **Protocols**: I2C, SPI, CAN
 - **Other**: Automation, Test coverage analysis, Traceability scripting
@@ -64,4 +69,4 @@ While my client projects are confidential and not publicly shareable, here are s
 
 ---
 
-*“Code is communication. Make it clear, make it clean.”*
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
