@@ -31,13 +31,13 @@ While my client projects are confidential and not publicly shareable, here are s
 - Contributed to successful ASPICE Level 2 assessment through robust testing and validation practices.
 
 ### 🔹 Chromium Video Codec Enhancement  
-🎥 C++ | Bash | Git | Jenkins  
+🎥 C++ | Bash | Git | Linux  
 - Integrated HLS, H264, and H265 codecs into Chromium source code to improve video playback performance.  
 - Improved benchmarking score by 35% on public performance evaluation platforms.  
 - Wrote Bash scripts for environment setup and automation of patch creation.
 
 ### 🔹 OTT Casting Automation  
-📱 Python | Appium | ADB | Android  
+📱 Python | Appium | ADB | Android | Linux
 - Built an automation test framework to validate OTT casting from mobile apps to Android TV.  
 - Used Python and Appium to interact with mobile UIs and ADB to control TV endpoints.  
 - Led testing strategy and created reusable test modules for feature validation.
@@ -64,7 +64,8 @@ While my client projects are confidential and not publicly shareable, here are s
 
 📧 deepkumarvarshney@gmail.com  
 📍 Pune, India  
-🔗 [[LinkedIn](www.linkedin.com/in/deep-kumar-43546b35)](#)
+🔗 LinkedIn: www.linkedin.com/in/deep-kumar-43546b35
+
 🧾 [Resume (PDF)](#) *Coming Soon*
 
 ---
